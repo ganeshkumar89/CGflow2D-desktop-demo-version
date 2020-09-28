@@ -45,4 +45,9 @@ will ﬁnd a text ﬁle with name ”Input settings.txt”.
 command window one by one.
 4. At the end of run the command window will automatically close
 and dumps several text ﬁles. Later these ﬁles can be used to view
-the simulation results using Gnuplot.
+the simulation results using Gnuplot.  
+![Alt text](https://github.com/ganeshkumar89/CGflow2D-desktop-demo-version/blob/master/2D%20Examples/Flowpast%20Square/MagVelocity.PNG?raw=true "Flowpast square")
+![Alt text](https://github.com/ganeshkumar89/CGflow2D-desktop-demo-version/blob/master/2D%20Examples/Lid%20driven%20cavity/magvelocity.PNG?raw=true "Lid driven cavity")
+![Alt text](https://github.com/ganeshkumar89/CGflow2D-desktop-demo-version/blob/master/2D%20Examples/Backward%20facing%20step/uvelocity.PNG?raw=true "Backward facing step")
+![Alt text](https://github.com/ganeshkumar89/CGflow2D-desktop-demo-version/blob/master/2D%20Examples/Pipeflow/Magvelocity.PNG?raw=true "Pipeflow")
+![Alt text](https://github.com/ganeshkumar89/CGflow2D-desktop-demo-version/blob/master/2D%20Examples/Shocktube/density.PNG?raw=true "Shocktube")
