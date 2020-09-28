@@ -1,0 +1,34 @@
+***************************************
+  CGflow-1D/2D desktop demo version
+      written by Ganesh kumar
+  for bug reports and feedback mailto
+        cgflowcfd@gmail.com
+***************************************
+1D or 2D case:
+2
+Case type:
+Pipeflow
+Cfl number:
+1
+MacCormack dissipation number:
+0.02
+Number of grid points:
+300
+
+Domain initial density kg/m3:
+1.1767
+Domain initial U velocity m/s:
+0
+Domain initial V velocity m/s:
+0
+Domain initial pressure pa:
+101325
+
+Domain Inflow density kg/m3:
+1.1767
+Domain Inflow U velocity m/s:
+50
+Domain Inflow V velocity m/s:
+0
+Domain Inflow pressure pa:
+101325
